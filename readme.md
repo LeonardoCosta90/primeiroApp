@@ -28,16 +28,15 @@ Em sua linha de comando:
 git clone https://github.com/LeonardoCosta90/primeiroApp
 
 # Vá para o repósitorio
-cd .\NLW01\
+cd .\primeiroApp\
 
-# Instale as dependências
-npm install
+# Instale as dependência
+npm install -g expo-cli
 
-# Inicie o site
-npm start
+# Inicie o app
+expo start
 
-# Acesse o site pela linha de comando ou pelo navegador
-start "http://localhost:3000"
+# Baixar o app Expo em sua loja(Google Play(ex))
 ```
 
 ## 📝 Licença
