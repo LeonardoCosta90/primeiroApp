@@ -13,7 +13,7 @@ Primeiro projeto desenvolvido no curso, com o intuito de aplicar os conceitos b√
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React Native](https://reactnative.devt)
+- [React Native](https://reactnative.dev)
 - [Expo](https://expo.io)
 
 
